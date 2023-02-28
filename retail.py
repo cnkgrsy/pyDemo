@@ -23,3 +23,7 @@ df['CustomerID'].value_counts()
 
 df.groupby('CustomerID')['Country'].value_counts()
 df['PurchaseTotal']= df['Quantity'] * df['UnitPrice']
+
+
+
+that is updated!!!!
